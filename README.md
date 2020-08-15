@@ -1,6 +1,7 @@
 <br />
 <p align="center">
-  <a href="https://github.com/github_Abhayparashar/images_data">
+<p align="center">
+  <a href="https://github.com/github_Abhayparashar/Google-Search-Query-Assistant">
     <img src="images/profile.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -36,11 +37,6 @@ The model will predict whether in an image the animal is a dog or a cat.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
- <a href="https://github.com/github_Abhayparashar/images_data">
-    <img src="images/profile.png"><img src="images/ppt1.png">
-  </a>
-
 
 `Abhayparashar31`, `CatvsDog`,  `parasharabhay13@gmail.com`
 
