@@ -1,6 +1,5 @@
 <br />
 <p align="center">
-<p align="center">
   <a href="https://github.com/github_Abhayparashar/Google-Search-Query-Assistant">
     <img src="images/profile.png" alt="Logo" width="80" height="80">
   </a>
